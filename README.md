@@ -1,36 +1,35 @@
-# 🏞 Local Turístico: Conheça Busan
+# 🏞 Tourist Site: Get to Know Busan
 
-Este é um projeto desenvolvido como parte de um desafio do curso FullStack. A aplicação apresenta informações sobre Busan, uma cidade litorânea da Coreia do Sul, destacando seus principais pontos turísticos e atrações históricas.
+This is a project developed as part of a FullStack course challenge. The application presents information about Busan, a coastal city in South Korea, highlighting its main tourist attractions and historical sites.
 
-## 📋 Índice
-- [Visão Geral](#-visão-geral)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Funcionalidades](#-funcionalidades)
-- [Como Executar](#-como-executar)
-
----
-
-## 🌐 Visão Geral
-
-A página foi criada com foco em boas práticas de estruturação HTML, estilização CSS e design responsivo. Este projeto busca destacar três destinos imperdíveis em Busan, com descrições detalhadas, imagens e dicas para os visitantes.
+## 📋 Index
+- [Overview](#-overview)
+- [Technologies Used](#-technologies-used)
+- [Features](#-features)
+- [How to Run](#-how-to-run)
 
 ---
 
-## 🛠 Tecnologias Utilizadas
-- **HTML5**: Para estruturação semântica da página.
-- **CSS3**: Para estilização e layout.
+## 🌐 Overview
+
+The page was created with a focus on good practices in HTML structuring, CSS styling, and responsive design. This project seeks to highlight three must-see destinations in Busan, with detailed descriptions, images, and tips for visitors.
 
 ---
 
-## ✨ Funcionalidades
-- **Destaques turísticos**: Informações detalhadas sobre templos e parques em Busan.
-- **Divisores e estilo visual limpo**: Melhoram a experiência do usuário.
+## 🛠 Technologies Used
+- **HTML5**: For semantic structuring of the page. - **CSS3**: For styling and layout.
 
 ---
 
-## 🚀 Como Executar
+## ✨ Features
+- **Tourist Highlights**: Detailed information about temples and parks in Busan.
+- **Dividers and Clean Visual Style**: Improves user experience.
 
-### Passos
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/CiceroEduardo84/Tourist_Site.git
+---
+
+## 🚀 How to Run
+
+### Steps
+1. Clone the repository:
+```bash
+git clone https://github.com/CiceroEduardo84/Tourist_Site.git
